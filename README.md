@@ -7,7 +7,7 @@ Example repository demonstrating multiple Stacks ecosystem SDKs.
 - stx-portfolio-sdk
 - stx-defi-activity-sdk
 - stx-vault-sdk
-- stacks-pay-sd
+- stacks-pay-sdk
 
 ## Install
 

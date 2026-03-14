@@ -1,0 +1,20 @@
+{
+  "name": "stacks-dev-toolkit",
+  "version": "1.0.0",
+  "description": "Developer toolkit demonstrating Stacks ecosystem SDKs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "portfolio": "node examples/portfolio.js",
+    "defi": "node examples/defi.js",
+    "vault": "node examples/vault.js",
+    "payroll": "node examples/payroll.js"
+  },
+  "dependencies": {
+    "stx-portfolio-sdk": "^1.0.3",
+    "stx-defi-activity-sdk": "^1.0.3",
+    "stx-vault-sdk": "^1.0.1",
+    "stacks-pay-sdk": "^1.0.4"
+  }
+}

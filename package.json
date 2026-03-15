@@ -16,5 +16,7 @@
     "stx-defi-activity-sdk": "^1.0.3",
     "stx-vault-sdk": "^1.0.1",
     "stacks-pay-sdk": "^1.0.4"
+    "hashlock-lending-sdk": "^1.0.4"
+    "sbtc-payment-sdk": "^1.0.5"
   }
 }

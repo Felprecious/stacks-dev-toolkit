@@ -15,4 +15,4 @@ npm install
 
 ## Run
 
-node indexjs
+node indexj

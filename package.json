@@ -1,6 +1,6 @@
 {
   "name": "stacks-dev-toolkit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Developer toolkit demonstrating Stacks ecosystem SDKs",
   "main": "index.js",
   "type": "module",
